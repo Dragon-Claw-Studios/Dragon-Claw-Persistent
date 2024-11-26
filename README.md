@@ -2,9 +2,16 @@
 
 _<center>Are you tired of being forced to start your Minecraft world over with each major version update? Do you want to continue expanding your world, and maintain access to your old builds? Then this might be the modpack for you!</center>_
 
-</div>
+
 
 # <center>![Dragon Claw Persistent title](https://cdn.modrinth.com/data/cached_images/0ea2dd76c449e5e371677e3a46daa373c72e6b02.png)</center>
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/dragon-claw-persistent?style=plastic&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdragon-claw-persistent)
+![Discord](https://img.shields.io/discord/226253895758905363?style=plastic&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FQCK4v25WuC)
+
+<img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/dragon-claw-persistent?style=plastic&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdragon-claw-persistent">
+
+</div>
+
 A general-purpose modpack designed with server longevity in mind, while still enabling access to interesting modded content. Created and maintained for the Dragon Claw Community official server, but made available for self-hosting with no compromise.
 
 The main goal is to keep future Minecraft version compatibility in mind, to allow for easier server migration, and **avoiding total world save loss**. To do so, the focus is to maintain stability of the Overworld, to act as a "safe-haven" for your builds, items and general progress. Any added dimensions or biomes are treated as "experiences" you can go and explore, but it is up to your own discretion if you want to build there, or use the modded blocks and items in the Overworld.
