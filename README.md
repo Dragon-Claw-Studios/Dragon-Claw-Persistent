@@ -5,10 +5,11 @@ _<center>Are you tired of being forced to start your Minecraft world over with e
 
 
 # <center>![Dragon Claw Persistent title](https://cdn.modrinth.com/data/cached_images/0ea2dd76c449e5e371677e3a46daa373c72e6b02.png)</center>
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/dragon-claw-persistent?style=plastic&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdragon-claw-persistent)
-![Discord](https://img.shields.io/discord/226253895758905363?style=plastic&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FQCK4v25WuC)
 
-<img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/dragon-claw-persistent?style=plastic&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdragon-claw-persistent">
+[![Modrinth][img-modrinth]][url-modrinth]
+[![Discord][img-discord]][url-discord]
+
+
 
 </div>
 
@@ -70,3 +71,31 @@ A lot of time and effort has gone into configuring the various mods. As an overv
 - New mod additions get tested before officially added to the pack.
 - Mods get tested continuously through in-game use over time.
 - New issues get addressed as they are discovered.
+
+
+[img-modrinth]: <https://img.shields.io/modrinth/dt/dragon-claw-persistent?style=plastic&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdragon-claw-persistent>
+[img-discord]: <https://img.shields.io/discord/226253895758905363?style=plastic&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FQCK4v25WuC>
+
+[url-modrinth]: <https://modrinth.com/modpack/dragon-claw-persistent>
+[url-discord]: <https://discord.gg/QCK4v25WuC>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
