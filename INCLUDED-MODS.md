@@ -295,6 +295,12 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [MonoLib](https://modrinth.com/mod/monolib) | [jason13official](https://modrinth.com/user/jason13official) | &nbsp;&nbsp;✅ |  A mod development library to ease the creation of new mods. |  |  |
 | [YUNG's API](https://modrinth.com/mod/yungs-api) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Library mod for YUNG's mods. |  |  |
 
+## Shader-related
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | [SpacEagle17](https://modrinth.com/user/SpacEagle17) | &nbsp;&nbsp;✅ |  Add-on for Complementary Shaders, extending it with more optional features and settings. |  |  |
+| [Oculus](https://modrinth.com/mod/oculus) | [Asek3](https://modrinth.com/user/Asek3) | &nbsp;&nbsp;✅ |  Unofficial Fork of "Iris", made to work with FML. |  |  |
+
 # Datapacks
 | Name | Author | 1.20.X | Description |
 |---|---|---|---|
@@ -309,13 +315,11 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Midnighttigger's Default Connected Textures](https://modrinth.com/resourcepack/mt-ct-d) | [Midnighttigger](https://modrinth.com/user/Midnighttigger) | &nbsp;&nbsp;✅ |  Enable Default Connected Textures inspired by the default textures optifine has onto Fusion. |  |  |
 | [Fixed Iron Bars!](https://modrinth.com/resourcepack/fixed-iron-bars!) | [PatchWolf](https://modrinth.com/user/PatchWolf) | &nbsp;&nbsp;✅ |  Fight off that stubborn Z-fighting. |  |  |
 
-# Shaders
+# Shaderpacks
 | Name | Author | 1.20.X | Description |
 |---|---|---|---|
 | [Insanity Shader](https://modrinth.com/shader/insanity-shader) | [ElocinDev](https://modrinth.com/user/ElocinDev) | &nbsp;&nbsp;✅ |  A stylized, horror themed Iris shaderpack with high customizability and performance. |  |  |
-| [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | [SpacEagle17](https://modrinth.com/user/SpacEagle17) | &nbsp;&nbsp;✅ |  Add-on for Complementary Shaders, extending it with more optional features and settings. |  |  |
 | [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) | [EminGT](https://modrinth.com/user/EminGT) | &nbsp;&nbsp;✅ |  Transforming the visuals of Minecraft with exceptional quality, detail, and performance. |  |  |
-| [Oculus](https://modrinth.com/mod/oculus) | [Asek3](https://modrinth.com/user/Asek3) | &nbsp;&nbsp;✅ |  Unofficial Fork of "Iris", made to work with FML. |  |  |
 | [Photon Shader](https://modrinth.com/shader/photon-shader) | [sixthsurge](https://modrinth.com/user/sixthsurge) | &nbsp;&nbsp;✅ |  A gameplay-focused shader pack for Minecraft. |  |  |
 | [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) | [EminGT](https://modrinth.com/user/EminGT) | &nbsp;&nbsp;✅ |  Preserving the elements of Minecraft with exceptional quality, detail, and performance. |  |  |
 | [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | [CaptTatsu](https://modrinth.com/user/CaptTatsu) | &nbsp;&nbsp;✅ |  It's bright, colorful, and distinct. |  |  |
