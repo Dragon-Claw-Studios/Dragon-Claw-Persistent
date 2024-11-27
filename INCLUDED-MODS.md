@@ -67,6 +67,8 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Better Ladders](https://modrinth.com/mod/better-ladders) | [meeetj](https://modrinth.com/user/meeetj) | &nbsp;&nbsp;✅ |  Modifies the vanilla ladder to be placeable anywhere without the need of supporting blocks. |  |  |
 | [Egg Hunter Enchantment](https://modrinth.com/mod/egg-hunter-enchantment) | [Draggonfire1](https://modrinth.com/user/Draggonfire1) | &nbsp;&nbsp;✅ |  Enchantment that provides a chance to get a mob's spawn egg when you kill it. |  |  |
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window. |  |  |
+| [Amendments](https://modrinth.com/mod/amendments) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Many changes to vanilla blocks. |  |  |
+| [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | [kreezxil](https://modrinth.com/user/kreezxil) | &nbsp;&nbsp;✅ |  Localizes the wither and dragon death sounds. |  |  |
 
 ## Performance & Fixes
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -92,6 +94,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | [Motschen](https://modrinth.com/user/Motschen) | &nbsp;&nbsp;✅ |  Adds culling to leaf blocks, providing a huge performance boost over vanilla. |  |  |
 | [Very Many Players (Forge)](https://modrinth.com/mod/vmp-forge) | [ishland](https://modrinth.com/user/ishland) | &nbsp;&nbsp;✅ |  Improve server performance at high playercounts. |  |  |
 | [Embeddium](https://modrinth.com/mod/embeddium) | [FiniteReality](https://modrinth.com/user/FiniteReality) | &nbsp;&nbsp;✅ |  Open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility. |  |  |
+| [FPS Reducer](https://modrinth.com/mod/fps-reducer) | [bre2el](https://modrinth.com/user/bre2el) | &nbsp;&nbsp;✅ |  Reduce GPU and CPU usage automatically when no user operation exists. |  |  |
 
 ## Combat & Movement
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -105,6 +108,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Better Combat](https://modrinth.com/mod/better-combat) | [[AUTHOR](https://modrinth.com/user/ZsoltMolnarrr)](https://modrinth.com/user/ZsoltMolnarrr) | &nbsp;&nbsp;✅ |  Easy, spectacular and fun melee combat system from Minecraft Dungeons. |  |  |
 | [MC Dungeons Armors](https://modrinth.com/mod/mcda) | [Timefall Development](https://modrinth.com/organization/timefall) | &nbsp;&nbsp;✅ |  Bringing the armors of Minecraft Dungeons to Minecraft. |  |  |
 | [Simply Swords](https://modrinth.com/mod/simply-swords) | [Timefall Development](https://modrinth.com/organization/timefall) | &nbsp;&nbsp;✅ |  Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons. |  |  |
+| [Immersive Armors](https://modrinth.com/mod/immersive-armors) | [Luke100000](https://modrinth.com/user/Luke100000) | &nbsp;&nbsp;✅ |  A lot of unique and vanilla-faithful armor sets. |  |  |
 
 ## Vehicles
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -145,6 +149,8 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Build roofs with actual roofs instead of stairs. |  |  |
 | [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | [tom5454](https://modrinth.com/user/tom5454) | &nbsp;&nbsp;✅ |  Simple vanilla style storage mod. |  |  |
 | [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds custom drawn paintings to fit in your world. |  |  |
+| [Comforts](https://modrinth.com/mod/comforts) | [TheIllusiveC4](https://modrinth.com/user/TheIllusiveC4) | &nbsp;&nbsp;✅ |  Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. |  |  |
+| [Expanded Storage](https://modrinth.com/mod/expanded-storage) | [Quinn_Semele](https://modrinth.com/user/Quinn_Semele) | &nbsp;&nbsp;✅ |  Adds various upgradeable storage types, including double chests. |  |  |
 
 
 ## Items
@@ -194,7 +200,8 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A complete redesign of Minecraft's Nether fortresses. |  |  |
 | [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Adds overhauled witch huts to swamps. |  |  |
 | [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A complete redesign of Minecraft's jungle temples. |  |  |
-| [MODNAME](MODURL) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  DESCRIPTION. |  |  |
+| [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A complete redesign of Minecraft's strongholds. |  |  |
+| [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A long-awaited and much-needed abandoned mineshaft overhaul. |  |  |
 
 
 ## Biomes
@@ -203,6 +210,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Enlightend](https://modrinth.com/mod/enlightend) | [lixir](https://modrinth.com/user/lixir) | &nbsp;&nbsp;✅ |  Expands on the desolate nature of the end while adding new biomes scattered few and far between the end islands.. |  |  |
 | [BetterNether](https://modrinth.com/mod/betternether) | [BetterX](https://modrinth.com/organization/betterx) | &nbsp;&nbsp;✅ |  More Biomes, More Mobs, More Tools for the fiery Dimension. |  |  |
 | [Deep Aether](https://modrinth.com/mod/deep-aether) | [TeamRazorDevs](https://modrinth.com/user/TeamRazorDevs) | &nbsp;&nbsp;✅ |  Adds lots of new features to give players a chance to venture deeper into the Aether dimension. |  |  |
+| [BetterEnd](https://modrinth.com/mod/betterend) | [BetterX](https://modrinth.com/organization/betterx) | &nbsp;&nbsp;✅ |  New Biomes, mysterious rituals and Mobs for your End. |  |  |
 
 ## Dimensions
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -222,6 +230,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | [IThundxr](https://modrinth.com/user/IThundxr) | &nbsp;&nbsp;✅ |  Adding depth to Create's rail network & steam system. |  |  |
 | [Rechiseled: Create](https://modrinth.com/mod/rechiseled-create) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Adds new decorative variants of blocks in Create. |  |  |
 | [Create Deco](https://modrinth.com/mod/create-deco) | [talrey](https://modrinth.com/user/talrey) | &nbsp;&nbsp;✅ |  Industrial decoration themed around the aesthetics of the Create mod. |  |  |
+| [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | [oierbravo](https://modrinth.com/user/oierbravo) | &nbsp;&nbsp;✅ |  A mechanical extruder block. Can be configured to generate any block or item from adjacent blocks/fluids. |  |  |
 
 ## Modpack & Server Utility
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -275,7 +284,11 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [playerAnimator](https://modrinth.com/mod/playeranimator) | [KosmX](https://modrinth.com/user/KosmX) | &nbsp;&nbsp;✅ |  animate the player. |  |  |
 | [Citadel](https://modrinth.com/mod/citadel) | [AlexModGuy](https://modrinth.com/user/AlexModGuy) | &nbsp;&nbsp;✅ |  A Lightweight Library. |  |  |
 | [TerraBlender](https://modrinth.com/mod/terrablender) | [Adubbz](https://modrinth.com/user/Adubbz) | &nbsp;&nbsp;✅ |  A library mod for adding biomes in a simple and compatible manner. |  |  |
-
+| [Searchables]([MODURL](https://modrinth.com/mod/searchables)) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  Searchables is a library mod that adds helper methods that allow for searching and filtering elements. |  |  |
+| [Common Network](https://modrinth.com/mod/common-network) | [mysticdrew](https://modrinth.com/user/mysticdrew) | &nbsp;&nbsp;✅ |  Forge and Fabric Unified Networking Solution. |  |  |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ |  Configuration Library for Minecraft Mods. |  |  |
+| [MonoLib](https://modrinth.com/mod/monolib) | [jason13official](https://modrinth.com/user/jason13official) | &nbsp;&nbsp;✅ |  A mod development library to ease the creation of new mods. |  |  |
+| [YUNG's API](https://modrinth.com/mod/yungs-api) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Library mod for YUNG's mods. |  |  |
 
 # Datapacks
 | Name | Author | 1.20.X | Description |
