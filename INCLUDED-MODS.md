@@ -6,8 +6,6 @@ To stay updated on latest additions and changes, consider checking the [changelo
 
 Mods are also marked with ☑, as to whether they are required on both Client & Server to work. Mods that are unsupported in a server environment are marked with ⭕.
 
-| [MODNAME](MODURL) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  DESCRIPTION. |  |  |
-
 <div align="center">
 
 # Mods
@@ -45,7 +43,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Trade Cycling](https://modrinth.com/mod/trade-cycling) | [henkelmax](https://modrinth.com/user/henkelmax) | &nbsp;&nbsp;✅ |  Adds the trade cycling functionality of Easy Villagers. |  |  |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | [YaLTeR](https://modrinth.com/user/YaLTeR) | &nbsp;&nbsp;✅ |  Replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. |  |  |
 | [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | [comp500](https://modrinth.com/user/comp500) | &nbsp;&nbsp;✅ |  Any time you take a screenshot in the game, the image data is copied to the clipboard. |  |  |
-| [Extreme sound muffler]([MODURL](https://modrinth.com/mod/extreme_sound_muffler)) | [LeoBeliik](https://modrinth.com/user/LeoBeliik) | &nbsp;&nbsp;✅ |  Allows you to muffle sounds selectively client-side. |  |  |
+| [Extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler) | [LeoBeliik](https://modrinth.com/user/LeoBeliik) | &nbsp;&nbsp;✅ |  Allows you to muffle sounds selectively client-side. |  |  |
 | [Emotecraft](https://modrinth.com/plugin/emotecraft) | [KosmX](https://modrinth.com/user/KosmX) | &nbsp;&nbsp;✅ |  Create your own emotes in Minecraft. |  |  |
 | [Ding](https://modrinth.com/mod/ding) | [iChun](https://modrinth.com/user/iChun) | &nbsp;&nbsp;✅ |  Plays a configurable sound when Minecraft loads and reaches the Main Menu. |  |  |
 | [TrashSlot](https://modrinth.com/mod/trashslot) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Adds a trash slot to the inventory screen that allows deletion of unwanted items. |  |  |
@@ -55,20 +53,22 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | [blackd](https://modrinth.com/user/blackd) | &nbsp;&nbsp;✅ |  Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more. |  |  |
 | [Harvest with ease](https://modrinth.com/mod/harvest-with-ease) | [Crystal Nest](https://modrinth.com/organization/crystal-nest) | &nbsp;&nbsp;✅ |  Right-click on your crops to harvest and replant them in one go. |  |  |
 | [Shuffle](https://modrinth.com/mod/shuffle) | [Trikzon](https://modrinth.com/user/Trikzon) | &nbsp;&nbsp;✅ |  Hotkey-enabled ability to randomly place blocks from your hotbar. |  |  |
-| [Our Villager Discounts](https://modrinth.com/mod/our-villager-discounts) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  Shares villager discounts across the server. |  |  |
-| [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Allows villagers to replant the correct seed & allows them to use modded ones. |  |  |
-| [Anvil Never Too Expensive](https://modrinth.com/mod/ante) | [tinytransfem](https://modrinth.com/user/tinytransfem) | &nbsp;&nbsp;✅ |  Removes the "Too Expensive!" message that appears in anvils when the XP cost goes above 40 levels. |  |  |
-| [Double Doors](https://modrinth.com/mod/double-doors) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously. |  |  |
-| [Better Than Mending](https://modrinth.com/mod/better-than-mending) | [legobmw99](https://modrinth.com/user/legobmw99) | &nbsp;&nbsp;✅ |  Ability to sneak-right-click a Mending item to repair it with experience you already have. |  |  |
-| [Bartering Station](https://modrinth.com/mod/bartering-station) | [Fuzs](https://modrinth.com/user/Fuzs) | &nbsp;&nbsp;✅ |  Adds utility block for easier Piglin bartering. |  |  |
-| [KleeSlabs](https://modrinth.com/mod/kleeslabs) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Break only the half of a double slab that you're looking at. |  |  |
 | [Bridging Mod](https://modrinth.com/mod/bridging-mod) | [CloudG360](https://modrinth.com/user/CloudG360) | &nbsp;&nbsp;✅ |  Reacharound Placement / Bedrock Bridging for Fabric, Forge & Quilt with a few extra tweaks. |  |  |
 | [Freecam (Modrinth Edition)](https://modrinth.com/mod/freecam) | [hashalite](https://modrinth.com/user/hashalite) | &nbsp;&nbsp;✅ |  Allows you to control your camera separately from your player.. |  |  |
-| [Better Ladders](https://modrinth.com/mod/better-ladders) | [meeetj](https://modrinth.com/user/meeetj) | &nbsp;&nbsp;✅ |  Modifies the vanilla ladder to be placeable anywhere without the need of supporting blocks. |  |  |
-| [Egg Hunter Enchantment](https://modrinth.com/mod/egg-hunter-enchantment) | [Draggonfire1](https://modrinth.com/user/Draggonfire1) | &nbsp;&nbsp;✅ |  Enchantment that provides a chance to get a mob's spawn egg when you kill it. |  |  |
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window. |  |  |
-| [Amendments](https://modrinth.com/mod/amendments) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Many changes to vanilla blocks. |  |  |
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | [kreezxil](https://modrinth.com/user/kreezxil) | &nbsp;&nbsp;✅ |  Localizes the wither and dragon death sounds. |  |  |
+
+## Vanilla Adjustments
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [KleeSlabs](https://modrinth.com/mod/kleeslabs) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Break only the half of a double slab that you're looking at. |  |  |
+| [Better Than Mending](https://modrinth.com/mod/better-than-mending) | [legobmw99](https://modrinth.com/user/legobmw99) | &nbsp;&nbsp;✅ |  Ability to sneak-right-click a Mending item to repair it with experience you already have. |  |  |
+| [Anvil Never Too Expensive](https://modrinth.com/mod/ante) | [tinytransfem](https://modrinth.com/user/tinytransfem) | &nbsp;&nbsp;✅ |  Removes the "Too Expensive!" message that appears in anvils when the XP cost goes above 40 levels. |  |  |
+| [Double Doors](https://modrinth.com/mod/double-doors) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously. |  |  |
+| [Better Ladders](https://modrinth.com/mod/better-ladders) | [meeetj](https://modrinth.com/user/meeetj) | &nbsp;&nbsp;✅ |  Modifies the vanilla ladder to be placeable anywhere without the need of supporting blocks. |  |  |
+| [Amendments](https://modrinth.com/mod/amendments) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Many changes to vanilla blocks. |  |  |
+| [Our Villager Discounts](https://modrinth.com/mod/our-villager-discounts) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  Shares villager discounts across the server. |  |  |
+| [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Allows villagers to replant the correct seed & allows them to use modded ones. |  |  |
 
 ## Performance & Fixes
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -96,6 +96,60 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Embeddium](https://modrinth.com/mod/embeddium) | [FiniteReality](https://modrinth.com/user/FiniteReality) | &nbsp;&nbsp;✅ |  Open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility. |  |  |
 | [FPS Reducer](https://modrinth.com/mod/fps-reducer) | [bre2el](https://modrinth.com/user/bre2el) | &nbsp;&nbsp;✅ |  Reduce GPU and CPU usage automatically when no user operation exists. |  |  |
 
+## Storage
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [EnderPack](https://modrinth.com/mod/enderpack) | [Lupin](https://modrinth.com/user/Lupin) | &nbsp;&nbsp;✅ |  An ender backpack. You can use it in the same way as the ender chest, but in the form of a backpack. |  |  |
+| [Packed Up (Backpacks)](https://modrinth.com/mod/packed-up-backpacks) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Configurable backpacks with multiple upgrade levels. |  |  |
+| [Expanded Storage](https://modrinth.com/mod/expanded-storage) | [Quinn_Semele](https://modrinth.com/user/Quinn_Semele) | &nbsp;&nbsp;✅ |  Adds various upgradeable storage types, including double chests. |  |  |
+| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | [tom5454](https://modrinth.com/user/tom5454) | &nbsp;&nbsp;✅ |  Simple vanilla style storage mod. |  |  |
+| [Storage Drawers](https://modrinth.com/mod/storagedrawers) | [Texelsaur](https://modrinth.com/user/Texelsaur) | &nbsp;&nbsp;✅ |  Interactive bulk storage solution. |  |  |
+
+## Create
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [Create: Framed](https://modrinth.com/mod/create-framed) | [DakotaPrideModding](https://modrinth.com/user/DakotaPrideModding) | &nbsp;&nbsp;✅ |  Adds more Framed Glass variants. |  |  |
+| [Create: Connected](https://modrinth.com/mod/create-connected) | [Lysine](https://modrinth.com/user/Lysine) | &nbsp;&nbsp;✅ |  QoL blocks that you wish existed in Create - Highly configurable. |  |  |
+| [Create: Copycats+](https://modrinth.com/mod/copycats) | [copycats-plus](https://modrinth.com/organization/copycats-plus) | &nbsp;&nbsp;✅ |  All the copycats you've ever wanted, combined into a single mod. |  |  |
+| [Create](https://modrinth.com/mod/create) | [simibubi](https://modrinth.com/user/simibubi) | &nbsp;&nbsp;✅ |  Offers a variety of tools and blocks for Building, Decoration and Aesthetic Automation. |  |  |
+| [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat) | [leon-o](https://modrinth.com/user/leon-o) | &nbsp;&nbsp;✅ |  Enable Flywheel's optimizations when using shaderpacks. |  |  |
+| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | [IThundxr](https://modrinth.com/user/IThundxr) | &nbsp;&nbsp;✅ |  Adding depth to Create's rail network & steam system. |  |  |
+| [Rechiseled: Create](https://modrinth.com/mod/rechiseled-create) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Adds new decorative variants of blocks in Create. |  |  |
+| [Create Deco](https://modrinth.com/mod/create-deco) | [talrey](https://modrinth.com/user/talrey) | &nbsp;&nbsp;✅ |  Industrial decoration themed around the aesthetics of the Create mod. |  |  |
+| [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | [oierbravo](https://modrinth.com/user/oierbravo) | &nbsp;&nbsp;✅ |  A mechanical extruder block. Can be configured to generate any block or item from adjacent blocks/fluids. |  |  |
+| [Create: Armor Trims](https://modrinth.com/datapack/create-mod-trims) | [Ordana](https://modrinth.com/user/Ordana) | &nbsp;&nbsp;✅ |  Adds new armor trim materials for the Create mod. |  |  |
+
+## Building
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [Night Lights](https://modrinth.com/mod/nightlights) | [Joo5h](https://modrinth.com/user/Joo5h) | &nbsp;&nbsp;✅ |  Adds a variety of new decorative light sources. |  |  |
+| [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds new light sources. |  |  |
+| [Dark Paintings](https://modrinth.com/mod/dark-paintings) | [Darkhax](https://modrinth.com/user/Darkhax) | &nbsp;&nbsp;✅ |  Adds many new paintings to the game. |  |  |
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Adds valuable content which fills the gaps vanilla has, tailored to be functional, aesthetically viable, and complementary to preexisting content. |  |  |
+| [DeepslateCutting](https://modrinth.com/mod/deepslatecutting) | [NoComment1105](https://modrinth.com/user/NoComment1105) | &nbsp;&nbsp;✅ |  Use regular Deepslate in the stonecutter. |  |  |
+| [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) | [lilypuree](https://modrinth.com/user/lilypuree) | &nbsp;&nbsp;✅ |  Some new blocks to build with. |  |  |
+| [Building But Better](https://modrinth.com/mod/building-but-better) | [crispytwig](https://modrinth.com/user/crispytwig) | &nbsp;&nbsp;✅ |   Expanding upon building shapes and flexibility. |  |  |
+| [Discontinuous Beacon Beams](https://modrinth.com/mod/discontinuous-beacon-beams) | [supersaiyansubtlety](https://modrinth.com/user/supersaiyansubtlety) | &nbsp;&nbsp;✅ |  Stops beacon beams from rendering though clear glass in their paths. |  |  |
+| [Chipped](https://modrinth.com/mod/chipped) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  Offers over 11,000 unique building blocks. |  |  |
+| [Handcrafted](https://modrinth.com/mod/handcrafted) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  Over 250 furniture pieces for you to choose from. |  |  |
+| [Rechiseled](https://modrinth.com/mod/rechiseled) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Adds over 600+ decorative variants of vanilla blocks. |  |  |
+| [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers Delight, Macaw's, Valhelsia, Architects Palette, Deco Blocks, Crayfish FM. |  |  |
+| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Build roofs with actual roofs instead of stairs. |  |  |
+| [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds custom drawn paintings to fit in your world. |  |  |
+
+## [Let's Dp]
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [[Let's Do] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Experience the art of advanced agriculture and farmhouse cuisine. |  |  |
+| [[Let's Do] Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Ever dreamed of the perfect dinner in Minecraft? Candlelight Dinner provides almost everything necessary to make it happen. |  |  |
+| [[Let's Do] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Addon all about the Nether for Vinery. |  |  |
+| [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Contains nearly everything needed for not only creating wine but also for building up your own Vinery. |  |  |
+| [[Let's Do] WilderNature](https://modrinth.com/mod/lets-do-wildernature) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Populates your world with new animals and adds hunting contracts. |  |  |
+| [[Let's Do Addon] Compat](https://modrinth.com/mod/lets-do-addon-compat) | [Ninjdai](https://modrinth.com/user/Ninjdai) | &nbsp;&nbsp;✅ |  Adds compatibility for the Let's Do mods so you don't have to. |  |  |
+| [[Let's Do] Bakery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable.. |  |  |
+| [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Beer brewing and more. |  |  |
+| [[Let's Do] Furniture](https://modrinth.com/mod/lets-do-furniture) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Beautify your home with a large set of new furniture and decoration options. |  |  |
+
 ## Combat & Movement
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
@@ -110,50 +164,13 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Simply Swords](https://modrinth.com/mod/simply-swords) | [Timefall Development](https://modrinth.com/organization/timefall) | &nbsp;&nbsp;✅ |  Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons. |  |  |
 | [Immersive Armors](https://modrinth.com/mod/immersive-armors) | [Luke100000](https://modrinth.com/user/Luke100000) | &nbsp;&nbsp;✅ |  A lot of unique and vanilla-faithful armor sets. |  |  |
 
-## Vehicles
+## Transport
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
 | [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) | [Luke100000](https://modrinth.com/user/Luke100000) | &nbsp;&nbsp;✅ |  A bunch of rustic aircraft to travel, transport, and explore!. |  |  |
 | [Small Ships](https://modrinth.com/mod/small-ships) | [talhanation](https://modrinth.com/user/talhanation) | &nbsp;&nbsp;✅ |  Vanilla friendly Ships for Minecraft. |  |  |
 
-## Vanity
-| Name | Author | 1.20.X | Description | Client | Server |
-|---|---|---|---|---|---|
-| [Selfexpression](https://modrinth.com/mod/selfexpression) | [Redynine](https://modrinth.com/user/Redynine) | &nbsp;&nbsp;✅ |  Adds more than 230 decorative clothing. |  |  |
-| [Create: Armor Trims](https://modrinth.com/datapack/create-mod-trims) | [Ordana](https://modrinth.com/user/Ordana) | &nbsp;&nbsp;✅ |  Adds new armor trim materials for the Create mod. |  |  |
-| [Invisible Armor Items](https://modrinth.com/mod/invisible-armor-items) | [LightAmethyst222](https://modrinth.com/user/LightAmethyst222) | &nbsp;&nbsp;✅ |  Adds invisible armor that can be made out of glass panes. |  |  |
-| [Customizable Elytra](https://modrinth.com/mod/customizable-elytra) | [hidoni](https://modrinth.com/user/hidoni) | &nbsp;&nbsp;✅ |  Allows you to dye/place banners on Elytra. |  |  |
-| [Colorful Trims](https://modrinth.com/datapack/colorful-trims) | [Bluebird](https://modrinth.com/user/Bluebird) | &nbsp;&nbsp;✅ |  Adds the ability to use dyes for armor trims. |  |  |
-| [Icarus](https://modrinth.com/mod/icarus) | [Cammie](https://modrinth.com/user/Cammie) | &nbsp;&nbsp;✅ |  Adds a bunch of colourful and unique wings. |  |  |
-| [Transmog](https://modrinth.com/mod/transmog) | [hidoni](https://modrinth.com/user/hidoni) | &nbsp;&nbsp;✅ |  Change the appearance of your items without modifying their behavior/stats. |  |  |
-
-
-## Building
-| Name | Author | 1.20.X | Description | Client | Server |
-|---|---|---|---|---|---|
-| [Night Lights](https://modrinth.com/mod/nightlights) | [Joo5h](https://modrinth.com/user/Joo5h) | &nbsp;&nbsp;✅ |  Adds a variety of new decorative light sources. |  |  |
-| [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds new light sources. |  |  |
-| [Dark Paintings](https://modrinth.com/mod/dark-paintings) | [Darkhax](https://modrinth.com/user/Darkhax) | &nbsp;&nbsp;✅ |  Adds many new paintings to the game. |  |  |
-| [VillagersPlus](https://modrinth.com/mod/villagersplus) | [finallion](https://modrinth.com/user/finallion) | &nbsp;&nbsp;✅ |  Adds new villagers, trades and unique and beautiful workstations. |  |  |
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Adds valuable content which fills the gaps vanilla has, tailored to be functional, aesthetically viable, and complementary to preexisting content. |  |  |
-| [DeepslateCutting](https://modrinth.com/mod/deepslatecutting) | [NoComment1105](https://modrinth.com/user/NoComment1105) | &nbsp;&nbsp;✅ |  Use regular Deepslate in the stonecutter. |  |  |
-| [Enhanced Mob Spawners](https://modrinth.com/mod/enhanced-mob-spawners) | [andersblomqvist](https://modrinth.com/user/andersblomqvist) | &nbsp;&nbsp;✅ |  Adds more functionality to the original minecraft spawner. |  |  |
-| [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) | [lilypuree](https://modrinth.com/user/lilypuree) | &nbsp;&nbsp;✅ |  Some new blocks to build with. |  |  |
-| [Building But Better](https://modrinth.com/mod/building-but-better) | [crispytwig](https://modrinth.com/user/crispytwig) | &nbsp;&nbsp;✅ |   Expanding upon building shapes and flexibility. |  |  |
-| [Discontinuous Beacon Beams](https://modrinth.com/mod/discontinuous-beacon-beams) | [supersaiyansubtlety](https://modrinth.com/user/supersaiyansubtlety) | &nbsp;&nbsp;✅ |  Stops beacon beams from rendering though clear glass in their paths. |  |  |
-| [Chipped](https://modrinth.com/mod/chipped) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  Offers over 11,000 unique building blocks. |  |  |
-| [Handcrafted](https://modrinth.com/mod/handcrafted) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  Over 250 furniture pieces for you to choose from. |  |  |
-| [Rechiseled](https://modrinth.com/mod/rechiseled) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Adds over 600+ decorative variants of vanilla blocks. |  |  |
-| [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers Delight, Macaw's, Valhelsia, Architects Palette, Deco Blocks, Crayfish FM. |  |  |
-| [Storage Drawers](https://modrinth.com/mod/storagedrawers) | [Texelsaur](https://modrinth.com/user/Texelsaur) | &nbsp;&nbsp;✅ |  Interactive bulk storage solution. |  |  |
-| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Build roofs with actual roofs instead of stairs. |  |  |
-| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | [tom5454](https://modrinth.com/user/tom5454) | &nbsp;&nbsp;✅ |  Simple vanilla style storage mod. |  |  |
-| [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds custom drawn paintings to fit in your world. |  |  |
-| [Comforts](https://modrinth.com/mod/comforts) | [TheIllusiveC4](https://modrinth.com/user/TheIllusiveC4) | &nbsp;&nbsp;✅ |  Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. |  |  |
-| [Expanded Storage](https://modrinth.com/mod/expanded-storage) | [Quinn_Semele](https://modrinth.com/user/Quinn_Semele) | &nbsp;&nbsp;✅ |  Adds various upgradeable storage types, including double chests. |  |  |
-
-
-## Items
+## Misc Items & Blocks
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
 | [Lighting Wand 🌟](https://modrinth.com/mod/lighting-wand) | [Snownee](https://modrinth.com/user/Snownee) | &nbsp;&nbsp;✅ |  Adds a Lighting Wand to place invisible light source. |  |  |
@@ -161,21 +178,21 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Void Totem](https://modrinth.com/mod/voidtotem) | [Affehund](https://modrinth.com/user/Affehund) | &nbsp;&nbsp;✅ |  A totem that prevents you from dying in the void. |  |  |
 | [Building Wands](https://modrinth.com/mod/building-wands) | [nicguzzo](https://modrinth.com/user/nicguzzo) | &nbsp;&nbsp;✅ |  Building wands with different modes. |  |  |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | [Chaosyr](https://modrinth.com/user/Chaosyr) | &nbsp;&nbsp;✅ |  Allows you to locate biomes anywhere in the world. |  |  |
-| [EnderPack](https://modrinth.com/mod/enderpack) | [Lupin](https://modrinth.com/user/Lupin) | &nbsp;&nbsp;✅ |  An ender backpack. You can use it in the same way as the ender chest, but in the form of a backpack. |  |  |
-| [Packed Up (Backpacks)](https://modrinth.com/mod/packed-up-backpacks) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Configurable backpacks with multiple upgrade levels. |  |  |
+| [Egg Hunter Enchantment](https://modrinth.com/mod/egg-hunter-enchantment) | [Draggonfire1](https://modrinth.com/user/Draggonfire1) | &nbsp;&nbsp;✅ |  Enchantment that provides a chance to get a mob's spawn egg when you kill it. |  |  |
+| [Bartering Station](https://modrinth.com/mod/bartering-station) | [Fuzs](https://modrinth.com/user/Fuzs) | &nbsp;&nbsp;✅ |  Adds utility block for easier Piglin bartering. |  |  |
+| [Enhanced Mob Spawners](https://modrinth.com/mod/enhanced-mob-spawners) | [andersblomqvist](https://modrinth.com/user/andersblomqvist) | &nbsp;&nbsp;✅ |  Adds more functionality to the original minecraft spawner. |  |  |
+| [VillagersPlus](https://modrinth.com/mod/villagersplus) | [finallion](https://modrinth.com/user/finallion) | &nbsp;&nbsp;✅ |  Adds new villagers, trades and unique and beautiful workstations. |  |  |
+| [Comforts](https://modrinth.com/mod/comforts) | [TheIllusiveC4](https://modrinth.com/user/TheIllusiveC4) | &nbsp;&nbsp;✅ |  Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. |  |  |
 
-## [Let's Dp]
+## Vanity
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
-| [[Let's Do] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Experience the art of advanced agriculture and farmhouse cuisine. |  |  |
-| [[Let's Do] Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Ever dreamed of the perfect dinner in Minecraft? Candlelight Dinner provides almost everything necessary to make it happen. |  |  |
-| [[Let's Do] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Addon all about the Nether for Vinery. |  |  |
-| [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Contains nearly everything needed for not only creating wine but also for building up your own Vinery. |  |  |
-| [[Let's Do] WilderNature](https://modrinth.com/mod/lets-do-wildernature) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Populates your world with new animals and adds hunting contracts. |  |  |
-| [[Let's Do Addon] Compat](https://modrinth.com/mod/lets-do-addon-compat) | [Ninjdai](https://modrinth.com/user/Ninjdai) | &nbsp;&nbsp;✅ |  Adds compatibility for the Let's Do mods so you don't have to. |  |  |
-| [[Let's Do] Bakery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable.. |  |  |
-| [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Beer brewing and more. |  |  |
-| [[Let's Do] Furniture](https://modrinth.com/mod/lets-do-furniture) | [satisfyu](https://modrinth.com/user/satisfyu) | &nbsp;&nbsp;✅ |  Beautify your home with a large set of new furniture and decoration options. |  |  |
+| [Selfexpression](https://modrinth.com/mod/selfexpression) | [Redynine](https://modrinth.com/user/Redynine) | &nbsp;&nbsp;✅ |  Adds more than 230 decorative clothing. |  |  |
+| [Invisible Armor Items](https://modrinth.com/mod/invisible-armor-items) | [LightAmethyst222](https://modrinth.com/user/LightAmethyst222) | &nbsp;&nbsp;✅ |  Adds invisible armor that can be made out of glass panes. |  |  |
+| [Customizable Elytra](https://modrinth.com/mod/customizable-elytra) | [hidoni](https://modrinth.com/user/hidoni) | &nbsp;&nbsp;✅ |  Allows you to dye/place banners on Elytra. |  |  |
+| [Colorful Trims](https://modrinth.com/datapack/colorful-trims) | [Bluebird](https://modrinth.com/user/Bluebird) | &nbsp;&nbsp;✅ |  Adds the ability to use dyes for armor trims. |  |  |
+| [Icarus](https://modrinth.com/mod/icarus) | [Cammie](https://modrinth.com/user/Cammie) | &nbsp;&nbsp;✅ |  Adds a bunch of colourful and unique wings. |  |  |
+| [Transmog](https://modrinth.com/mod/transmog) | [hidoni](https://modrinth.com/user/hidoni) | &nbsp;&nbsp;✅ |  Change the appearance of your items without modifying their behavior/stats. |  |  |
 
 ## Flora, Fauna & Farming
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -203,6 +220,12 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A complete redesign of Minecraft's strongholds. |  |  |
 | [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  A long-awaited and much-needed abandoned mineshaft overhaul. |  |  |
 
+## Dimensions
+| Name | Author | 1.20.X | Description | Client | Server |
+|---|---|---|---|---|---|
+| [The Aether](https://modrinth.com/mod/aether) | [Oz-Payn](https://modrinth.com/user/Oz-Payn) | &nbsp;&nbsp;✅ |  A dimension high in the sky, filled with vast skylands of clouds and floating islands. |  |  |
+| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | [nitrodynamite18](https://modrinth.com/user/nitrodynamite18) | &nbsp;&nbsp;✅ |  Adds many new features related to the Deep Dark and a new dimension called the Otherside. |  |  |
+| [The Bumblezone - NeoForge/Forge](https://modrinth.com/mod/the-bumblezone) | [TelepathicGrunt](https://modrinth.com/user/TelepathicGrunt) | &nbsp;&nbsp;✅ |  An unBEElievable dimension full of bees that becomes REALLY angry if you take their honey!. |  |  |
 
 ## Biomes
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -212,25 +235,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Deep Aether](https://modrinth.com/mod/deep-aether) | [TeamRazorDevs](https://modrinth.com/user/TeamRazorDevs) | &nbsp;&nbsp;✅ |  Adds lots of new features to give players a chance to venture deeper into the Aether dimension. |  |  |
 | [BetterEnd](https://modrinth.com/mod/betterend) | [BetterX](https://modrinth.com/organization/betterx) | &nbsp;&nbsp;✅ |  New Biomes, mysterious rituals and Mobs for your End. |  |  |
 
-## Dimensions
-| Name | Author | 1.20.X | Description | Client | Server |
-|---|---|---|---|---|---|
-| [The Aether](https://modrinth.com/mod/aether) | [Oz-Payn](https://modrinth.com/user/Oz-Payn) | &nbsp;&nbsp;✅ |  A dimension high in the sky, filled with vast skylands of clouds and floating islands. |  |  |
-| [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | [nitrodynamite18](https://modrinth.com/user/nitrodynamite18) | &nbsp;&nbsp;✅ |  Adds many new features related to the Deep Dark and a new dimension called the Otherside. |  |  |
-| [The Bumblezone - NeoForge/Forge](https://modrinth.com/mod/the-bumblezone) | [TelepathicGrunt](https://modrinth.com/user/TelepathicGrunt) | &nbsp;&nbsp;✅ |  An unBEElievable dimension full of bees that becomes REALLY angry if you take their honey!. |  |  |
 
-## Create
-| Name | Author | 1.20.X | Description | Client | Server |
-|---|---|---|---|---|---|
-| [Create: Framed](https://modrinth.com/mod/create-framed) | [DakotaPrideModding](https://modrinth.com/user/DakotaPrideModding) | &nbsp;&nbsp;✅ |  Adds more Framed Glass variants. |  |  |
-| [Create: Connected](https://modrinth.com/mod/create-connected) | [Lysine](https://modrinth.com/user/Lysine) | &nbsp;&nbsp;✅ |  QoL blocks that you wish existed in Create - Highly configurable. |  |  |
-| [Create: Copycats+](https://modrinth.com/mod/copycats) | [copycats-plus](https://modrinth.com/organization/copycats-plus) | &nbsp;&nbsp;✅ |  All the copycats you've ever wanted, combined into a single mod. |  |  |
-| [Create](https://modrinth.com/mod/create) | [simibubi](https://modrinth.com/user/simibubi) | &nbsp;&nbsp;✅ |  Offers a variety of tools and blocks for Building, Decoration and Aesthetic Automation. |  |  |
-| [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat) | [leon-o](https://modrinth.com/user/leon-o) | &nbsp;&nbsp;✅ |  Enable Flywheel's optimizations when using shaderpacks. |  |  |
-| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | [IThundxr](https://modrinth.com/user/IThundxr) | &nbsp;&nbsp;✅ |  Adding depth to Create's rail network & steam system. |  |  |
-| [Rechiseled: Create](https://modrinth.com/mod/rechiseled-create) | [SuperMartijn642](https://modrinth.com/user/SuperMartijn642) | &nbsp;&nbsp;✅ |  Adds new decorative variants of blocks in Create. |  |  |
-| [Create Deco](https://modrinth.com/mod/create-deco) | [talrey](https://modrinth.com/user/talrey) | &nbsp;&nbsp;✅ |  Industrial decoration themed around the aesthetics of the Create mod. |  |  |
-| [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | [oierbravo](https://modrinth.com/user/oierbravo) | &nbsp;&nbsp;✅ |  A mechanical extruder block. Can be configured to generate any block or item from adjacent blocks/fluids. |  |  |
 
 ## Modpack & Server Utility
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -246,7 +251,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file. |  |  |
 | [CraftTweaker](https://modrinth.com/mod/crafttweaker) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  hange recipes, script events, add new commands and even change item properties. |  |  |
 | [Simple Rich Discord Presence](https://modrinth.com/mod/srdp) | [Sunekaer](https://modrinth.com/user/Sunekaer) | &nbsp;&nbsp;✅ |  Simple Discord Rich Presence. |  |  |
-| [Simple Menu]([MODURL](https://modrinth.com/mod/simple-menu)) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🖼️ Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon.. |  |  |
+| [Simple Menu](https://modrinth.com/mod/simple-menu) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🖼️ Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon.. |  |  |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | [Aizistral](https://modrinth.com/user/Aizistral) | &nbsp;&nbsp;✅ |  Makes chat unreportable (where possible). |  |  |
 
 ## API & Libraries
@@ -284,7 +289,7 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [playerAnimator](https://modrinth.com/mod/playeranimator) | [KosmX](https://modrinth.com/user/KosmX) | &nbsp;&nbsp;✅ |  animate the player. |  |  |
 | [Citadel](https://modrinth.com/mod/citadel) | [AlexModGuy](https://modrinth.com/user/AlexModGuy) | &nbsp;&nbsp;✅ |  A Lightweight Library. |  |  |
 | [TerraBlender](https://modrinth.com/mod/terrablender) | [Adubbz](https://modrinth.com/user/Adubbz) | &nbsp;&nbsp;✅ |  A library mod for adding biomes in a simple and compatible manner. |  |  |
-| [Searchables]([MODURL](https://modrinth.com/mod/searchables)) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  Searchables is a library mod that adds helper methods that allow for searching and filtering elements. |  |  |
+| [Searchables](https://modrinth.com/mod/searchables) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  Searchables is a library mod that adds helper methods that allow for searching and filtering elements. |  |  |
 | [Common Network](https://modrinth.com/mod/common-network) | [mysticdrew](https://modrinth.com/user/mysticdrew) | &nbsp;&nbsp;✅ |  Forge and Fabric Unified Networking Solution. |  |  |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ |  Configuration Library for Minecraft Mods. |  |  |
 | [MonoLib](https://modrinth.com/mod/monolib) | [jason13official](https://modrinth.com/user/jason13official) | &nbsp;&nbsp;✅ |  A mod development library to ease the creation of new mods. |  |  |
@@ -295,8 +300,6 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 |---|---|---|---|
 | [CTOV - Farmer Delight Compat](https://modrinth.com/datapack/ctov-farmers-delight-compat) | [ChoiceTheorem](https://modrinth.com/user/ChoiceTheorem) | &nbsp;&nbsp;✅ |  Adds compatibility between CTOV and Farmer's Delight. |  |  |
 | [CTOV - Villagers Plus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat) | [ChoiceTheorem](https://modrinth.com/user/ChoiceTheorem) | &nbsp;&nbsp;✅ |  Compatibility datapack between ChoiceTheorem's overhauled village and VillagersPlus mod. |  |  |
-
-
 
 # Resourcepacks
 | Name | Author | 1.20.X | Description |
@@ -316,20 +319,4 @@ Mods are also marked with ☑, as to whether they are required on both Client & 
 | [Photon Shader](https://modrinth.com/shader/photon-shader) | [sixthsurge](https://modrinth.com/user/sixthsurge) | &nbsp;&nbsp;✅ |  A gameplay-focused shader pack for Minecraft. |  |  |
 | [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) | [EminGT](https://modrinth.com/user/EminGT) | &nbsp;&nbsp;✅ |  Preserving the elements of Minecraft with exceptional quality, detail, and performance. |  |  |
 | [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | [CaptTatsu](https://modrinth.com/user/CaptTatsu) | &nbsp;&nbsp;✅ |  It's bright, colorful, and distinct. |  |  |
-
-
-
-
-
-
-
-
-
-| [MODNAME](MODURL) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  DESCRIPTION. |  |  |
-
-
-
-
-
-
 
