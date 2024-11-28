@@ -233,29 +233,67 @@ Can be used to prevent players from acquiring specific items or blocks that are 
 ## Kiwi
 </div>
 
+<div align="center">
+
 ## Lighty
+</div>
+
+<div align="center">
 
 ## Mini Effects
+</div>
+
+<div align="center">
 
 ## More Culling
+</div>
+
+<div align="center">
 
 ## Mouse Tweaks
+</div>
+
+<div align="center">
 
 ## Packedup
+</div>
+
+<div align="center">
 
 ## Servercore
+</div>
+
+<div align="center">
 
 ## Small Ships
+</div>
+
+<div align="center">
 
 ## Enhanced Mob Spawners
+</div>
+
+<div align="center">
 
 ## Supplementaries
+</div>
+
+<div align="center">
 
 ## Wilder Nature
+</div>
+
+<div align="center">
 
 ## Xaero's Minimap
+</div>
+
+<div align="center">
 
 ## Xaero's Worldmap
+</div>
+
+
 
 
 
