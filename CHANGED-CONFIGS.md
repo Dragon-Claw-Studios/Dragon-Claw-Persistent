@@ -4,11 +4,21 @@ This is a condensed overview of which configs have been adjusted, how, and in ca
 
 Simplemenu, bisecthosting, simple rcp and Keybindings
 
+<div align="center">
+
 # Options
+</div>
+
+<div align="center">
 
 # Mods
+</div>
 
-## bclib
+<div align="center">
+
+## <center>Bclib</center>
+</div>
+
 bclib can be used to sync config differences between client and server, which is not always preferable. As an example, if you disable the thick fog effects for BetterNether, but the server has it enabled, bclib will undo that client-side change if you agree to sync. If you want to enforce a particular experience, you can of course adjust the server-related settings to your liking.
 
 ### *(config/defaultoptions/extra/config/config/bclib/client.json)*
@@ -19,7 +29,10 @@ bclib can be used to sync config differences between client and server, which is
 ### *(config/defaultoptions/extra/config/config/bclib/server.json)*
 - "enabled [default: true]": false,
 
+<div align="center">
+
 ## Inventory Profiles Next
+</div>
 IPN can be helpful when it comes to a multitude of inventory management tasks, such as auto-replacing blocks in your hotbar when your stack runs out. Normally there is a GUI button below the inventory, but it has been disabled to reduce clutter, and reduce the chance of UI overlap. Armor and tools with durability will not warn you when they are about to break, nor be auto-replaced. The experience has been, that getting spammed with durability messages in the mid-to-late game is more annoying than it is useful. Once Mending is acquired, this feature is just too intrusive. A few hotkey features were removed related to moving items between inventories with the scroll wheel, as you tend to keep doing it by accident, wondering where your stuff went. The hotkey for sorting your inventory was changed to the middle mouse button, as pressing "R" on an item will trigger REI or similar to open the crafting recipes instead.
 
 ### *(config/defaultoptions/extra/config/config/inventoryprofilesnext/inventoryprofiles.json)*
@@ -54,12 +67,18 @@ IPN can be helpful when it comes to a multitude of inventory management tasks, s
 - "scroll_to_chest": "main": "keys": ""
 - "scroll_to_inventory": "main": "keys": ""
 
-## jade
+<div align="center">
+
+## Jade
+</div>
 Configured the Jade overlay to be transparent and located in the top left. The intention is to make it less intrusive to the visual space.
 
 ### *(config/defaultoptions/extra/config/config/jade/jade.json)*
 
+<div align="center">
+
 ## Roughly Enough Items
+</div>
 REI has been configured to provide a better overview of what you can make, but also to improve performance and load times.
 
 ### *(config/defaultoptions/extra/config/config/roughlyenoughitems/collapsible.json5)*
@@ -68,30 +87,45 @@ REI has been configured to provide a better overview of what you can make, but a
 ### *(config/defaultoptions/extra/config/config/roughlyenoughitems/config.json5)*
 - A few adjustments to sorting method, appearance and performance.
 
+<div align="center">
+
 ## Simply Swords
+</div>
 The weapons provided in this mod are already quite powerful. As a slight balancing measure, the gem sockets on unique weapons have been disabled, as they already have unique effects.
 
 ### *(config/defaultoptions/extra/config/config/simplyswords_main/general.json5)*
 - "enableUniqueGemSockets": false
 
+<div align="center">
+
 ## Let's Do Vinery
+</div>
 Infinite bone meal is just a bit too overpowered, and circumvents reasons to make midgame farms that produce bone meal.
 
 ### *(config/defaultoptions/extra/config/vinery/config.json5)*
 - "enable_wine_maker_set_bonus": false,
 
+<div align="center">
+
 ## Alex's Mobs
+</div>
 Just craft the book if you want it, reduces clutter for new players and makes the start just that bit less confusing.
 
 ### *(config/defaultoptions/extra/config/alexsmobs.toml)*
 - giveBookOnStartup = false
 
+<div align="center">
+
 ## Betterf3
+</div>
 Modules have been reduced a bit to avoid clutter from overwhelming information that the average player is unlikely to use.
 
 ### *(config/defaultoptions/extra/config/betterf3.json)*
 
+<div align="center">
+
 ## Copycats+
+</div>
 Some Copycats have been disabled in order to keep the available selection more clean and closer to what is already present in either vanilla or other mods. The level of fidelity provided by e.g. Chisels and Bits was outside the scope of this pack in the first place, and is probably not well suited for a persistent server in terms of stability and performance anyway.
 
 ### *(config/defaultoptions/extra/config/copycats-common.toml)*
@@ -105,7 +139,10 @@ Some Copycats have been disabled in order to keep the available selection more c
 - copycat_slope_layer = false
 - copycat_vertical_slice = false
 
+<div align="center">
+
 ## Create Connected
+</div>
 Create Connected includes a selection of copycat blocks from before the various modders behind Copycats+ collaborated on merging their additions. These copycats have naturally been disabled due to them already being present elsewhere.
 
 ### *(config/defaultoptions/extra/config/create_connected-common.toml)*
@@ -119,33 +156,48 @@ Create Connected includes a selection of copycat blocks from before the various 
 - copycat_vertical_step = false
 - copycat_wall = false
 
+<div align="center">
+
 ## Deathbackup
+</div>
 Disabled the chat message, as there is no need for the reminder.
 
 ### *(config/defaultoptions/extra/config/deathbackup.json5)*
 - "sendBackupReminderMessageToThoseWithAccessOnDeath": false
 
+<div align="center">
+
 ## Doubledoors
+</div>
 Disabled opening of multiple fence gates and trapdoors, as they are commonly used as part of decorative builds, in cases where opening multiple trapdoors for instance, would be really annoying when building.
 
 ### *(config/defaultoptions/extra/config/doubledoors.json5)*
 - "enableFenceGates": false
 - "enableTrapdoors": false
 
+<div align="center">
+
 ## Everycomp
+</div>
 Disabled generation of wood types for Building But Better's layer blocks, as they have been disabled entirely (similar reasons to Copycats+ changes).
 
 ### *(config/defaultoptions/extra/config/everycomp-entries.toml)*
 [entries.wood_type.bbb]
 - layer = false
 
+<div align="center">
+
 ## Freecam
+</div>
 Freecam is just really good when building on a larger scale. Being unable to pass through solid blocks just makes it kinda useless or annoying to use. If people want to use x-ray cheating methods for mining, then that is their choice.
 
 ### *(config/defaultoptions/extra/config/freecam.toml)*
 - "Ignore All Collision" = true
 
+<div align="center">
+
 ## Icarus
+</div>
 Changes were made so that Icarus wings are mainly cosmetic, and on parity with normal Elytra wings. Only difference is that you can do loops with Icarus wings. This makes the wings better balanced with the ones added from other mods.
 
 ### *(config/defaultoptions/extra/config/icarus.jsonc)*
@@ -155,7 +207,10 @@ Changes were made so that Icarus wings are mainly cosmetic, and on parity with n
 - "required_food_amount": 0.0
 - "max_height_enabled": false
 
+<div align="center">
+
 ## Item Obliterator
+</div>
 Can be used to prevent players from acquiring specific items or blocks that are troublesome by deleting them when they are picked up. Very useful in cases where there is no other way to prevent those items/blocks fram spwaning outright. I think we can all agree that having a mob spawner produce Ender Dragons is probably a bad idea.
 
 ### *(config/defaultoptions/extra/config/item_obliterator.json5)*
@@ -173,7 +228,10 @@ Can be used to prevent players from acquiring specific items or blocks that are 
 - "deeperdarker:stalker_spawn_egg"
 - "enlightend:void_laviathan_spawn_egg"
 
+<div align="center">
+
 ## Kiwi
+</div>
 
 ## Lighty
 
