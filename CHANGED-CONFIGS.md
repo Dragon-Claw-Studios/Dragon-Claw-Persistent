@@ -1,8 +1,8 @@
-# Changed Configs (W.I.P.)
+# Changed Configs
 
-This is a condensed overview of which configs have been adjusted, how, and in cases where relevant, why.
+This is a condensed overview of which configs have been adjusted, how, and in cases where relevant, why. Given the complex nature of modpack configuration, an attempt has been made to document as much as possible, but in some cases, some changes might slip through the cracks.
 
-Simplemenu, bisecthosting, simple rcp and Keybindings
+Default config files related to the visual representation of the modpack main menu and similar modpack-specific features is not documented here, as they do not impact game or server performance/gameplay etc..
 
 <div align="center">
 
