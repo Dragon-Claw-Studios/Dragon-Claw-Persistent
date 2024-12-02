@@ -264,31 +264,31 @@ Lots of changes were made to make backpacks balanced, and more convenient to use
 - maxBagInBagLayer = 1
 - canBackpacksBurn = false
 
-- [Backpacks.Basic]
+[Backpacks.Basic]
 - basicRows = 3
 - basicColumns = 9 -> 4
 
-- [Backpacks.Iron]
+[Backpacks.Iron]
 - ironRows = 4
 - ironColumns = 9
 
-- [Backpacks.Copper]
+[Backpacks.Copper]
 - copperRows = 4
 - copperColumns = 9
 
-- [Backpacks.Silver]
+[Backpacks.Silver]
 - silverRows = 5
 - silverColumns = 9
 
-- [Backpacks.Gold]
+[Backpacks.Gold]
 - goldRows = 5
 - goldColumns = 9
 
-- [Backpacks.Diamond]
+[Backpacks.Diamond]
 - diamondRows = 7
 - diamondColumns = 9
 
-- [Backpacks.Obsidian]
+[Backpacks.Obsidian]
 - obsidianRows = 8 -> 9
 - obsidianColumns = 9 -> 13
 
@@ -327,7 +327,7 @@ Default spawner range was set to vanilla value of 16, but can still be bumped up
 - "disable_egg_removal_from_spawner": 0 -> 1
 - "monster_egg_drop_chance": 1 -> 0
 
-- "disable_specific_egg_drops":
+"disable_specific_egg_drops":
 - "alexsmobs:warped_mosco": 1
 - "alexsmobs:cachalot_whale": 1
 - "alexsmobs:void_worm": 1
@@ -347,13 +347,13 @@ Default spawner range was set to vanilla value of 16, but can still be bumped up
 A handful of destructive features were disabled.
 
 ### *(config/defaultoptions/extra/config/supplementaries-common.toml)*
-- [functional.cannon]
+[functional.cannon]
 - enabled = false
 
-- [functional.lumisene]
+[functional.lumisene]
 - enabled = false
 
-- [tweaks.throwable_bricks]
+[tweaks.throwable_bricks]
 - enabled = false
 
 <div align="center">
