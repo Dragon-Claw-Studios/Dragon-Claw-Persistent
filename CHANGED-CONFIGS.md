@@ -317,6 +317,17 @@ Small Ships was slightly adjusted to remove collision damage from sailing into s
 
 <div align="center">
 
+## TPA++
+</div>
+Some default settings were changed to make teleporting more balanced. /back has been disabled, as your items are already "saved" from being in a tombstone, removing the time element of reclaiming your stuff.
+
+### *(config/defaultoptions/extra/config/tpaplusplus-config.toml)*
+- "Use /back" = false
+- "Accept Windup" = 5.0
+- "Accept Cooldown" = 900 (15minutes)
+
+<div align="center">
+
 ## Enhanced Mob Spawners
 </div>
 Default spawner range was set to vanilla value of 16, but can still be bumped up with the spawner key item. Egg removal was disabled, because it allows a player to disable any dungeon mob spawner with a simple right click. Egg drop chance has been disabled because eggs from some mods like BetterEnd would not drop due to inconsitencies with how the egg items are named. A separate mod handles egg drops instead, but the configs for disabling eggs in this mod are still present for clarity sake.
