@@ -8,6 +8,13 @@ Default config files related to the visual representation of the modpack main me
 
 # Options
 </div>
+To provide an easier install and play experience, some default options, including keybinds, have been changed. A list of the more regularly useful keybinds will be listed here.
+
+### *(config/defaultoptions/keybindings.txt)*
+- Various keybind defaults were changed to avoid overlap and move more frequently used shortcuts closer to "WASD".
+- Some keybinds were completely disabled to make room for others.
+
+### *(config/defaultoptions/options.txt)*
 
 <div align="center">
 
