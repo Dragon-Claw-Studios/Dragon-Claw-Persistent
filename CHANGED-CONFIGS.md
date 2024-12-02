@@ -233,65 +233,143 @@ Can be used to prevent players from acquiring specific items or blocks that are 
 ## Kiwi
 </div>
 
-<div align="center">
-
-## Lighty
-</div>
-
-<div align="center">
-
-## Mini Effects
-</div>
-
-<div align="center">
-
-## More Culling
-</div>
+### *(config/defaultoptions/extra/config/kiwi-client.yaml)*
+- tagsTooltip: false
+- debugTooltipMsg: false
+- NBTTooltip: false
 
 <div align="center">
 
 ## Mouse Tweaks
 </div>
+Disabling the wheel tweak, which otherwise will move inventory items back and forth between chests when scrolling with the mousewheel. This functinality is also present in Inventory Profiles Next, which is also disabled.
+
+### *(config/defaultoptions/extra/config/MouseTweaks.cfg)*
+- WheelTweak=0
 
 <div align="center">
 
 ## Packedup
 </div>
+Lots of changes were made to make backpacks balanced, and more convenient to use in end-game, such as making them bigger, allowing nested storage 1 layer deep, and preventing fire from destroying them. For clarity sake, an -> is used to indicate if a value was changed, and all backpacks are listed.
+
+### *(config/defaultoptions/extra/config/packedup-common.toml)*
+- maxBagInBagLayer = 1
+- canBackpacksBurn = false
+
+- [Backpacks.Basic]
+- basicRows = 3
+- basicColumns = 9 -> 4
+
+- [Backpacks.Iron]
+- ironRows = 4
+- ironColumns = 9
+
+- [Backpacks.Copper]
+- copperRows = 4
+- copperColumns = 9
+
+- [Backpacks.Silver]
+- silverRows = 5
+- silverColumns = 9
+
+- [Backpacks.Gold]
+- goldRows = 5
+- goldColumns = 9
+
+- [Backpacks.Diamond]
+- diamondRows = 7
+- diamondColumns = 9
+
+- [Backpacks.Obsidian]
+- obsidianRows = 8 -> 9
+- obsidianColumns = 9 -> 13
 
 <div align="center">
 
 ## Servercore
 </div>
+Enabled a few extra optimizations that are non-intrusive. The spawn chunks in vanilla are normally always loaded, so disabiling those being loaded can save a bit of performance stress. Villagers in a 1x1 block area will not tick as often and mobs spawning around biome transition areas is a bit more optimized.
+
+### *(config/defaultoptions/extra/config/servercore/config.yml)*
+- disable_spawn_chunks = true
+- lobotomize_villagers = true
+
+### *(config/defaultoptions/extra/config/servercore/optimizations.yml)*
+- fast-biome-lookups: true
 
 <div align="center">
 
 ## Small Ships
 </div>
+Small Ships was slightly adjusted to remove collision damage from sailing into stuff, and also removing the block destruction of cannonballs.
+
+### *(config/defaultoptions/extra/config/smallships-common.toml)*
+- shipGeneralCollisionDamage = 0
+- shipGeneralCannonDestruction = 0.0
 
 <div align="center">
 
 ## Enhanced Mob Spawners
 </div>
+Default spawner range was set to vanilla value of 16, but can still be bumped up with the spawner key item. Egg removal was disabled, because it allows a player to disable any dungeon mob spawner with a simple right click. Egg drop chance has been disabled because eggs from some mods like BetterEnd would not drop due to inconsitencies with how the egg items are named. A separate mod handles egg drops instead, but the configs for disabling eggs in this mod are still present for clarity sake.
+
+### *(config/defaultoptions/extra/config/spawnermod.json)*
+- "default_spawner_range": 52 -> 16
+- "disable_count": 0 -> 1
+- "disable_egg_removal_from_spawner": 0 -> 1
+- "monster_egg_drop_chance": 1 -> 0
+
+- "disable_specific_egg_drops":
+- "alexsmobs:warped_mosco": 1
+- "alexsmobs:cachalot_whale": 1
+- "alexsmobs:void_worm": 1
+- "alexsmobs:bunfungus": 1
+- "alexsmobs:farseer": 1
+- "deeperdarker:shriek_worm": 1
+- "deeperdarker:stalker": 1
+- "enlightened_end:void_leviathan": 1
+- "minecraft:ender_dragon": 1
+- "minecraft:warden": 1
+
 
 <div align="center">
 
 ## Supplementaries
 </div>
+A handful of destructive features were disabled.
+
+### *(config/defaultoptions/extra/config/supplementaries-common.toml)*
+- [functional.cannon]
+- enabled = false
+
+- [functional.lumisene]
+- enabled = false
+
+- [tweaks.throwable_bricks]
+- enabled = false
 
 <div align="center">
 
 ## Wilder Nature
 </div>
+Raccoons and bison are already added through Alex's Mobs, so to avoid confusion, these duplicates were disabled.
+
+### *(config/defaultoptions/extra/config/wildernature.toml)*
+- raccoonSpawnWeight = 0
+- bisonSpawnWeight = 0
 
 <div align="center">
 
 ## Xaero's Minimap
 </div>
+Visual elements were changed to how the minimap is displayed.
 
 <div align="center">
 
 ## Xaero's Worldmap
 </div>
+Visual elements were changed to how the world map is displayed.
 
 
 
