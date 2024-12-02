@@ -181,6 +181,7 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [InfiniCore](https://modrinth.com/mod/infinicore) | [hiisuuii](https://modrinth.com/user/hiisuuii) | &nbsp;&nbsp;✅ |  An expensive late-game item that can be used in an anvil to make your damageable items unbreakable. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Lighting Wand 🌟](https://modrinth.com/mod/lighting-wand) | [Snownee](https://modrinth.com/user/Snownee) | &nbsp;&nbsp;✅ |  Adds a Lighting Wand to place invisible light source. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | [Chaosyr](https://modrinth.com/user/Chaosyr) | &nbsp;&nbsp;✅ |  Allows you to locate biomes anywhere in the world. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [Tom's Trading Network](https://modrinth.com/mod/toms-trading-network) | [tom5454](https://modrinth.com/user/tom5454) | &nbsp;&nbsp;✅ |  A simple mod to make trading with players easier. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [VillagersPlus](https://modrinth.com/mod/villagersplus) | [finallion](https://modrinth.com/user/finallion) | &nbsp;&nbsp;✅ |  Adds new villagers, trades and unique and beautiful workstations. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Void Totem](https://modrinth.com/mod/voidtotem) | [Affehund](https://modrinth.com/user/Affehund) | &nbsp;&nbsp;✅ |  A totem that prevents you from dying in the void. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 
@@ -238,12 +239,14 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 ## Modpack & Server Utility
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
+| [Chunky](https://modrinth.com/plugin/chunky) | [pop4959](https://modrinth.com/user/pop4959) | &nbsp;&nbsp;✅ |  Pre-generates chunks, quickly and efficiently. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Connector Extras](https://modrinth.com/mod/connector-extras) | [Sinytra](https://modrinth.com/organization/sinytra) | &nbsp;&nbsp;✅ |  An accompanying mod for Connector that adds integration with third-party APIs and mods. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [CraftTweaker](https://modrinth.com/mod/crafttweaker) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  hange recipes, script events, add new commands and even change item properties. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Death Backup](https://modrinth.com/mod/death-backup) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  💾 Creates back-ups of player inventories before death, which can be loaded via commands. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Item Obliterator](https://modrinth.com/mod/item-obliterator) | [ElocinDev](https://modrinth.com/user/ElocinDev) | &nbsp;&nbsp;✅ |  Disable unwanted items from existing using JSON configuration. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Log Begone](https://modrinth.com/mod/log-begone) | [AzureDoom](https://modrinth.com/user/AzureDoom) | &nbsp;&nbsp;✅ |  Allows you to remove annoying logs from your log when you remove structures, biomes, blocks, or items that spam your log saying missing. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod) | [BisectLabs](https://modrinth.com/user/BisectLabs) | &nbsp;&nbsp;✅ |  BisectHosting Server Ordering Menu. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | [Aizistral](https://modrinth.com/user/Aizistral) | &nbsp;&nbsp;✅ |  Makes chat unreportable (where possible). | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims) | [thexaero](https://modrinth.com/user/thexaero) | &nbsp;&nbsp;✅ |  Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Paxi](https://modrinth.com/mod/paxi) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Automatic data & resource pack loading made easy. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
@@ -251,6 +254,7 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [Simple Menu](https://modrinth.com/mod/simple-menu) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🖼️ Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Simple Rich Discord Presence](https://modrinth.com/mod/srdp) | [Sunekaer](https://modrinth.com/user/Sunekaer) | &nbsp;&nbsp;✅ |  Simple Discord Rich Presence. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Sinytra Connector](https://modrinth.com/mod/connector) | [Sinytra](https://modrinth.com/organization/sinytra) | &nbsp;&nbsp;✅ |  A translation/compatibility layer that allows running Fabric mods on NeoForge. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [TPA++](https://modrinth.com/mod/tpa++) | [SuperRicky](https://modrinth.com/user/SuperRicky) | &nbsp;&nbsp;✅ |  TPA++ is an async, open source and customisable TPA mod. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 
 ## API & Libraries
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -323,3 +327,5 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [Insanity Shader](https://modrinth.com/shader/insanity-shader) | [ElocinDev](https://modrinth.com/user/ElocinDev) | &nbsp;&nbsp;✅ |  A stylized, horror themed Iris shaderpack with high customizability and performance. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Photon Shader](https://modrinth.com/shader/photon-shader) | [sixthsurge](https://modrinth.com/user/sixthsurge) | &nbsp;&nbsp;✅ |  A gameplay-focused shader pack for Minecraft. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 
+# Entry Template
+| [MODNAME](MODURL) | [AUTHORNAME](AUTHORURL) | &nbsp;&nbsp;✅ |  DESCRIPTION. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
