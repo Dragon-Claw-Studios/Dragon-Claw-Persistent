@@ -54,6 +54,7 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | [Luken](https://modrinth.com/user/Luken) | &nbsp;&nbsp;✅ |  Allows players to temporarily mark locations and entities. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | [comp500](https://modrinth.com/user/comp500) | &nbsp;&nbsp;✅ |  Any time you take a screenshot in the game, the image data is copied to the clipboard. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Shuffle](https://modrinth.com/mod/shuffle) | [Trikzon](https://modrinth.com/user/Trikzon) | &nbsp;&nbsp;✅ |  Hotkey-enabled ability to randomly place blocks from your hotbar. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
+| [Smart Villagers Follow Emeralds](https://modrinth.com/mod/smart-villagers-follow-emeralds) | [enjarai](https://modrinth.com/user/enjarai) | &nbsp;&nbsp;✅ |  Makes villagers follow emeralds. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Too Fast](https://modrinth.com/mod/too-fast) | [noobanidus](https://modrinth.com/user/noobanidus) | &nbsp;&nbsp;✅ |  Removes the "moved too quickly" warning and rubber-banding. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Trade Cycling](https://modrinth.com/mod/trade-cycling) | [henkelmax](https://modrinth.com/user/henkelmax) | &nbsp;&nbsp;✅ |  Adds the trade cycling functionality of Easy Villagers. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [TrashSlot](https://modrinth.com/mod/trashslot) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Adds a trash slot to the inventory screen that allows deletion of unwanted items. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
@@ -67,8 +68,9 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [Better Than Mending](https://modrinth.com/mod/better-than-mending) | [legobmw99](https://modrinth.com/user/legobmw99) | &nbsp;&nbsp;✅ |  Ability to sneak-right-click a Mending item to repair it with experience you already have. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Double Doors](https://modrinth.com/mod/double-doors) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [KleeSlabs](https://modrinth.com/mod/kleeslabs) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  Break only the half of a double slab that you're looking at. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
-| [Our Villager Discounts](https://modrinth.com/mod/our-villager-discounts) | [AUTHOR](AUTHORURL) | &nbsp;&nbsp;✅ |  Shares villager discounts across the server. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [Our Villager Discounts](https://modrinth.com/mod/our-villager-discounts) | [Gremlite](https://modrinth.com/user/Gremlite) | &nbsp;&nbsp;✅ |  Shares villager discounts across the server. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Allows villagers to replant the correct seed & allows them to use modded ones. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [Dragon Drops Elytra](https://modrinth.com/mod/dragon-drops-elytra) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  A minimalistic mod that makes the Ender Dragon drop an elytra on death. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 
 ## Performance & Fixes
 | Name | Author | 1.20.X | Description | Client | Server |
@@ -128,6 +130,7 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) | [lilypuree](https://modrinth.com/user/lilypuree) | &nbsp;&nbsp;✅ |  Some new blocks to build with. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [DeepslateCutting](https://modrinth.com/mod/deepslatecutting) | [NoComment1105](https://modrinth.com/user/NoComment1105) | &nbsp;&nbsp;✅ |  Use regular Deepslate in the stonecutter. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Discontinuous Beacon Beams](https://modrinth.com/mod/discontinuous-beacon-beams) | [supersaiyansubtlety](https://modrinth.com/user/supersaiyansubtlety) | &nbsp;&nbsp;✅ |  Stops beacon beams from rendering though clear glass in their paths. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
+| [Every Compat (Stone Zone)](https://modrinth.com/mod/stone-zone) | [xelbayria](https://modrinth.com/user/xelbayria) | &nbsp;&nbsp;✅ |  Universal Stone Compat: Create, Twigs, Stoneworks, and more. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ |  Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers Delight, Macaw's, Valhelsia, Architects Palette, Deco Blocks, Crayfish FM. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  Over 250 furniture pieces for you to choose from. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | [sketchmacaw](https://modrinth.com/user/sketchmacaw) | &nbsp;&nbsp;✅ |  Adds new light sources. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
@@ -239,14 +242,15 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 ## Modpack & Server Utility
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
+| [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod) | [BisectLabs](https://modrinth.com/user/BisectLabs) | &nbsp;&nbsp;✅ |  BisectHosting Server Ordering Menu. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Chunky](https://modrinth.com/plugin/chunky) | [pop4959](https://modrinth.com/user/pop4959) | &nbsp;&nbsp;✅ |  Pre-generates chunks, quickly and efficiently. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Connector Extras](https://modrinth.com/mod/connector-extras) | [Sinytra](https://modrinth.com/organization/sinytra) | &nbsp;&nbsp;✅ |  An accompanying mod for Connector that adds integration with third-party APIs and mods. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [CraftTweaker](https://modrinth.com/mod/crafttweaker) | [jaredlll08](https://modrinth.com/user/jaredlll08) | &nbsp;&nbsp;✅ |  hange recipes, script events, add new commands and even change item properties. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Death Backup](https://modrinth.com/mod/death-backup) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ |  💾 Creates back-ups of player inventories before death, which can be loaded via commands. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ |  A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
+| [Heracles (Questing)](https://modrinth.com/mod/heracles) | [Terrarium](https://modrinth.com/organization/terrarium) | &nbsp;&nbsp;✅ |  A tree-style questing mod, allowing pack makers to make and include completable quests for their players. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Item Obliterator](https://modrinth.com/mod/item-obliterator) | [ElocinDev](https://modrinth.com/user/ElocinDev) | &nbsp;&nbsp;✅ |  Disable unwanted items from existing using JSON configuration. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Log Begone](https://modrinth.com/mod/log-begone) | [AzureDoom](https://modrinth.com/user/AzureDoom) | &nbsp;&nbsp;✅ |  Allows you to remove annoying logs from your log when you remove structures, biomes, blocks, or items that spam your log saying missing. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
-| [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod) | [BisectLabs](https://modrinth.com/user/BisectLabs) | &nbsp;&nbsp;✅ |  BisectHosting Server Ordering Menu. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | [Aizistral](https://modrinth.com/user/Aizistral) | &nbsp;&nbsp;✅ |  Makes chat unreportable (where possible). | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims) | [thexaero](https://modrinth.com/user/thexaero) | &nbsp;&nbsp;✅ |  Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [Paxi](https://modrinth.com/mod/paxi) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Automatic data & resource pack loading made easy. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
@@ -298,11 +302,12 @@ Mods are also marked with ☑, as to whether they are required on both Client or
 | [YUNG's API](https://modrinth.com/mod/yungs-api) | [Refresh Studios](https://modrinth.com/organization/refresh-studios) | &nbsp;&nbsp;✅ |  Library mod for YUNG's mods. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 | [[Let's Do] API](https://modrinth.com/mod/do-api) | [Cristelknight](https://modrinth.com/user/Cristelknight) | &nbsp;&nbsp;✅ |  A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;☑ |
 
-## Shader-related
+## Shader & Audio-related
 | Name | Author | 1.20.X | Description | Client | Server |
 |---|---|---|---|---|---|
 | [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | [SpacEagle17](https://modrinth.com/user/SpacEagle17) | &nbsp;&nbsp;✅ |  Add-on for Complementary Shaders, extending it with more optional features and settings. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 | [Oculus](https://modrinth.com/mod/oculus) | [Asek3](https://modrinth.com/user/Asek3) | &nbsp;&nbsp;✅ |  Unofficial Fork of "Iris", made to work with FML. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
+| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | [Sollace](https://modrinth.com/user/Sollace) | &nbsp;&nbsp;✅ |  adds new and more dynamic sounds for every block the player walks on. | &nbsp;&nbsp;☑ | &nbsp;&nbsp;⭕ |
 
 # Datapacks
 | Name | Author | 1.20.X | Description |
