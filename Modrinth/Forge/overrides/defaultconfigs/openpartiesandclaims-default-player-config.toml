@@ -270,7 +270,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Books = 0
+						Books = 3
 
 				[playerConfig.claims.protection.exceptionGroups.block]
 
@@ -280,7 +280,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Ender_Chests = 0
+						Ender_Chests = 3
 						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:chest, minecraft:trapped_chest, #forge:chests/wooden.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
@@ -406,7 +406,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Enchanting_Tables = 0
+						Enchanting_Tables = 3
 						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: #create:seats, #handcrafted:couches, #handcrafted:chairs, #handcrafted:benches, #handcrafted:dining_benches, #decorative_blocks:seats, bakery:iron_chair, vinery:chair.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
@@ -496,19 +496,19 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Villagers = 0
+						Villagers = 3
 						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:fox. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Foxes = 0
+						Foxes = 3
 						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:piglin. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Piglins = 0
+						Piglins = 3
 
 					[playerConfig.claims.protection.exceptionGroups.entity.blockAccess]
 						#When enabled, claimed chunk protection makes an exception for block access by the following entities: minecraft:villager. If the block protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the block access.
@@ -516,7 +516,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Villagers = 0
+						Villagers = 3
 
 					[playerConfig.claims.protection.exceptionGroups.entity.barrier]
 						#When enabled, claimed chunk protection prevents the following additional entities from entering the claim (except wilderness): minecraft:ender_pearl.
@@ -560,7 +560,7 @@
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
-						Traders = 0
+						Traders = 3
 
 					[playerConfig.claims.protection.exceptionGroups.entity.entityAccess]
 						#When enabled, claimed chunk protection makes an exception for entity access BY the following entities: minecraft:zombie, minecraft:zombie_villager, minecraft:husk, minecraft:drowned. If the entity protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the entity access.

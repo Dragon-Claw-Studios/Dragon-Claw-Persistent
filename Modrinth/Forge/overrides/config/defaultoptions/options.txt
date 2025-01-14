@@ -22,7 +22,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","Moonlight Mods Dynamic Assets","file/Midnighttiggers-CTM-Default_1.20.2_V1.zip","fabric","bushy_leaves","file/Better-Leaves-8.1-1.20+.zip","file/Create+Simple+Storage+2.1.zip","file/Patch\u0027s Iron Bars Fix v1.0.zip","file/xali\u0027s enchanted books v0.13.0.zip","file/xali\u0027s Enchanted Books Addon v3 1.20.1.zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-CTM-Default_1.20.2_V1.zip","file/Create+Simple+Storage+2.1.zip","file/Patch\u0027s Iron Bars Fix v1.0.zip","file/xali\u0027s enchanted books v0.13.0.zip"]
+resourcePacks:["mod_resources","vanilla","fabric","Moonlight Mods Dynamic Assets","file/Better-Leaves-8.1-1.20+.zip","file/Midnighttiggers-CTM-Default_1.20.2_V1.zip","file/Midnighttiggers-NT_CG-FCT-Default_1.17_V2.zip","file/Create+Simple+Storage+2.1.zip","dragon claw assets.zip"]
+incompatibleResourcePacks:["file/Midnighttiggers-CTM-Default_1.20.2_V1.zip","file/Midnighttiggers-NT_CG-FCT-Default_1.17_V2.zip","file/Create+Simple+Storage+2.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -84,7 +84,7 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:0.15480132450331127
+soundCategory_master:0.3079470198675497
 soundCategory_music:0.3028169014084507
 soundCategory_record:1.0
 soundCategory_weather:1.0
