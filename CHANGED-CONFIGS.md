@@ -324,7 +324,7 @@ Some default settings were changed to make teleporting more balanced. /back has 
 ### *(config/defaultoptions/extra/config/tpaplusplus-config.toml)*
 - "Use /back" = false
 - "Accept Windup" = 5.0
-- "Accept Cooldown" = 900 (15minutes)
+- "Global Cooldown" = 900 (15minutes)
 
 <div align="center">
 
