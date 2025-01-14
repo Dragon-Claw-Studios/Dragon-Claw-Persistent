@@ -145,50 +145,72 @@ These tweaks are all about useful or convenient recipe additions for Create, tha
 ## <center>dragons curios tweaks</center>
 </div>
 
-Description.
-
-### *Recipes*
-- 
+Adds a dedicated slot for a backpack and enderpack respectively, so you can wear a backpack and an elytra at the same time. The shortcut key for opening your backpack, prioritizes the one that is equipped. This was done to create better compatibility between the elytra being equipable with curios, across the various modded elytra that are added by mods.
 
 <div align="center">
 
 ## <center>dragons heracles book</center>
 </div>
 
-Description.
+Adds a custom recipe, so you can actually craft the quest book in case you lose it, and don't want to use a hotkey.
 
 ### *Recipes*
-- 
+- dcc_heracles_quest_book (1 book and 3 paper in a specific pattern)
 
 <div align="center">
 
 ## <center>dragons infinicore tweaks</center>
 </div>
 
-Description.
+Being able to make items have infinite durability is quite powerful, so the recipe was altered to be more complex. Refer to the recipe ingame, or in the json file for what you need to make it.
 
 ### *Recipes*
-- 
+- infinicore
 
 <div align="center">
 
 ## <center>dragons packedup tweaks</center>
 </div>
 
-Description.
+The packedup backpacks were configured to have different capacities in order to increase the challenge. The smallest backpack can be made in the usual way, but the recipes to upgrade it into a copper or iron-tier, has been altered to require a shulkerbox instead. This was done to retain the significance of exploring the End after defeating the dragon, and to require players to optain access to "nested" storage, which shulkerboxes are in vanilla. This means that you still have to overcome the same challenges as in vanilla, but that the reward for doing so, is also to be able to make much larger inventory expansions.
 
 ### *Recipes*
-- 
+- copper_from_basic
+- iron_from_basic
 
 <div align="center">
 
 ## <center>dragons vanilla tweaks</center>
 </div>
 
-Description.
+This adjusts and adds a few crafting recipes that are entirely based in vanilla. These can also be used alongside Create in automation setups.
 
-### *Recipes*
-- 
+### *Recipes - Sustainable Block Crafting*
+- dcc_deepslate_crafting
+3x3 crafting of 1 black dye and 8 cobblestone, to create 8 cobbled deepslate
+
+- dcc_end_stone_crafting
+3x3 crafting of 1 ender pearl and 8 cobblestone, to create 8 end stone
+
+- dcc_guilded_blackstone_crafting
+3x3 crafting of 1 gold nugget and 8 blackstone, to create 8 gilded blackstone
+
+- dcc_netherrack_crafting
+3x3 crafting of 1 nether wart and 8 cobblestone, to create 8 netherrack
+
+- dcc_quartz_block_smelting
+Smelt 1 quartz block into 1 calcite block
+
+- dcc_spawner_crafting
+3x3 crafting of 1 nether star, 4 netherite scrap and 4 obsidian, to create 1 empty spawner
+
+### *Recipes - Various*
+- dye_"colorname"_wool
+All 16 colors of wool dying recipes have been altered to dye 8 wool per dye instead of 1
+
+### *Loot Tables*
+- budding_amethyst
+Using the matching tool with silk touch will drop the block instead of destroying it
 
 <div align="center">
 
