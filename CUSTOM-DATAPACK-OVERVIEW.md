@@ -1,8 +1,8 @@
 # Included Custom Datapack Overview
 
-Custom datapacks were made to modify the given experience in the modpack, mostly in order to help mitigate server lag, convenience, or to provide alternative options for tedious tasks.
+Custom datapacks were made to modify the given experience in the modpack, mostly in order provide sustainable resource farming methods, but also for convenience, balance, and to help mitigate server lag.
 
-This overview, outlines each datapack and what it either adds or changes.
+This overview, outlines each datapack and what it either adds or changes. If you don't like what they do, you can simply remove it from your datapacks folder in Paxi under configs for singleplayer, or, not include them in the datapacks folder in your server world save folder. To further facilitate this, an attempt has been made to separate the various changes into multiple datapacks for easier cherry-picking.
 
 <div align="center">
 
