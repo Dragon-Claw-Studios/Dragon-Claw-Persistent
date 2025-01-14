@@ -4,6 +4,11 @@ This is a condensed overview of which configs have been adjusted, how, and in ca
 
 Default config files related to the visual representation of the modpack main menu and similar modpack-specific features is not documented here, as they do not impact game or server performance/gameplay etc..
 
+NB: Pay attention to the distinction between "defaultoptions" and "defaultconfigs":
+
+- defaultoptions: Refers to the folder located at \config\defaultoptions - and contains various configs that have been altered, and will only replace the default configs provided by mods, as long as there is no config file to be found.
+- defaultconfigs: Refers to the folder defaultconfigs located alongisde the "mods" and "config" folder - and contains world-specific config files, which are applied into the saves/"worldname"/serverconfig/ folder. The defaultconfigs will not override any files that are already present, so if this modpack is updated, make sure to consider overwriting them manually.
+
 <div align="center">
 
 # Options
@@ -18,7 +23,7 @@ To provide an easier install and play experience, some default options, includin
 
 <div align="center">
 
-# Mods
+# Mods - "defaultoptions"
 </div>
 
 <div align="center">
@@ -389,38 +394,22 @@ Visual elements were changed to how the minimap is displayed.
 </div>
 Visual elements were changed to how the world map is displayed.
 
+# Mods - "defaultconfigs"
 
+<div align="center">
 
+## GraveStone Mod
+</div>
+Anyone can break the gravestone, to avoid griefing and cases where players didn't pick up their own graves.
 
+### *(defaultconfigs/gravestone-server.toml)*
+- only_owners_can_break = false
 
+<div align="center">
 
+## Open Parties and Claims
+</div>
 
+A lot of custom entries were added to increase mod compatibility with the claim protection. Many harmless blocks are not protected by default, such as sitting areas like chairs and benches, or anything else that does not come at the cost of the owning player. Doors are accessible by default, to reduce the likelyhood of players getting stuck. Create trains are accessible by default, to reduce problems such as when a player might disembark from their train while inside another player's claim, being unable to get back into the controls. This also makes it easier to create train stations, without the need for further configuration of the claim protection rules.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A lot of categories were created for groups of similar modded blocks, to allow for more freedom and flexibility. Due to the extent of the config entries, they will not be explicitly outlined here. Refer to the "openpartiesandclaims-server.toml" and "openpartiesandclaims-default-player-config.toml" files inside the defaultconfigs folder instead.
